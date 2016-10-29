@@ -1,10 +1,21 @@
 # Awesome-Frontend-Designs
 Curated list of frontend designs
 #Table of contents
+- [background] (#background)
 - [Clocks](#clocks)
 
 Contents
 --------
+##background
+
+* [blurred background](http://codepen.io/ariona/pen/geFIK)
+* [parallax  scrolling](http://codepen.io/skeurentjes/pen/wvpus)
+* [connect three](http://codepen.io/MarcoGuglielmelli/pen/lLCxy)
+* [gravity points](http://codepen.io/akm2/pen/rHIsa)
+* [animated background gradient](http://codepen.io/quasimondo/pen/lDdrF)
+* [floating cloud](http://codepen.io/shshaw/pen/DxJka)
+* [parallax background with walk cycle](http://codepen.io/rachelnabors/pen/AvGhp)
+
 
 ##clocks
 
