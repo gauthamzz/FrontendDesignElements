@@ -3,6 +3,7 @@ Curated list of frontend designs
 #Table of contents
 - [background] (#background)
 - [Clocks](#clocks)
+- [Text](#text)
 
 Contents
 --------
@@ -16,6 +17,11 @@ Contents
 * [floating cloud](http://codepen.io/shshaw/pen/DxJka)
 * [parallax background with walk cycle](http://codepen.io/rachelnabors/pen/AvGhp)
 
+##text
+
+* [cloudy text](http://codepen.io/rachsmith/pen/LEyLON)
+* [moving masked background](http://codepen.io/dghez/pen/ItxKE)
+* [CSS text shadow](http://codepen.io/tommymcdonald/pen/Iunzp)
 
 ##clocks
 
