@@ -1,10 +1,10 @@
 # Awesome-Frontend-Designs
 Curated list of frontend designs
 #Table of contents
-- [background] (#background)
+- [Background](#background)
 - [Clocks](#clocks)
 - [Text](#text)
-
+- [NavBar](#NavBar)
 Contents
 --------
 ##background
@@ -33,3 +33,9 @@ Contents
 * [Rotate clock](http://codepen.io/DawidKrajewski/pen/dPpMXN)
 * [Waterclock](http://codepen.io/akhil_001/pen/RGmqZB)
 
+##NavBar
+
+- [Responsive Parallax Navbar Logo - Bootstrap](http://codepen.io/Designmite/pen/GwdBm)
+- [Navbar Transition on Scroll](http://codepen.io/simonswiss/pen/zrQNmK)
+- [Bootstrap Navbar with Logo Centered Above](http://codepen.io/davidcochran/pen/Dihnl)
+- [Bootstrap Navbar Toggle Show/Hide](http://codepen.io/norcal82/pen/ahegw)
