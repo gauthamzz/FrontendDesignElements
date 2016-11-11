@@ -42,6 +42,7 @@ Contents
 * [Rotate clock](http://codepen.io/DawidKrajewski/pen/dPpMXN)
 * [Waterclock](http://codepen.io/akhil_001/pen/RGmqZB)
 * [Powered clock](http://codepen.io/eehayman/pen/jVPKpN)
+* [Dynamic Clock](http://codepen.io/simonpatrat/pen/NbxRrb)
 
 ##NavBar
 
