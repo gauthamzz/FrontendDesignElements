@@ -28,6 +28,7 @@ Contents
 * [cloudy text](http://codepen.io/rachsmith/pen/LEyLON)
 * [moving masked background](http://codepen.io/dghez/pen/ItxKE)
 * [CSS text shadow](http://codepen.io/tommymcdonald/pen/Iunzp)
+* [Glitch effect](http://codepen.io/anatravas/pen/mOyNWR)
 
 ##clocks
 
