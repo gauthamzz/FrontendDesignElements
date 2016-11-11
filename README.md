@@ -39,6 +39,7 @@ Contents
 * [Clock || clocks ? ](http://codepen.io/ImagineAlex/pen/NAEvNd)
 * [Rotate clock](http://codepen.io/DawidKrajewski/pen/dPpMXN)
 * [Waterclock](http://codepen.io/akhil_001/pen/RGmqZB)
+* [Powered clock](http://codepen.io/eehayman/pen/jVPKpN)
 
 ##NavBar
 
