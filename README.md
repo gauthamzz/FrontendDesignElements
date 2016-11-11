@@ -21,6 +21,7 @@ Contents
 * [animated background gradient](http://codepen.io/quasimondo/pen/lDdrF)
 * [floating cloud](http://codepen.io/shshaw/pen/DxJka)
 * [parallax background with walk cycle](http://codepen.io/rachelnabors/pen/AvGhp)
+* [Particle trails](http://codepen.io/Jeremboo/pen/ENVaMY)
 
 ##text
 
