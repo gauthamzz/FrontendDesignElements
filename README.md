@@ -50,6 +50,7 @@ Contents
 - [Navbar Transition on Scroll](http://codepen.io/simonswiss/pen/zrQNmK)
 - [Bootstrap Navbar with Logo Centered Above](http://codepen.io/davidcochran/pen/Dihnl)
 - [Bootstrap Navbar Toggle Show/Hide](http://codepen.io/norcal82/pen/ahegw)
+- [Navigation button](http://codepen.io/electerious/pen/ZBQeOv)
 
 ##Footer
 
@@ -87,4 +88,12 @@ Contents
 - [Google Now Inspired Flip Cards](http://codepen.io/ettrics/pen/zxMPWj)
 - [Material Design Cards](http://codepen.io/MattiaAstorino/pen/VYWxXy)
 - [Flip - card memory game.](http://codepen.io/zerospree/pen/bNWbvW)
+
+##MailCarrier
+
+- [Mail carrier](http://codepen.io/johnbgarcia/pen/VmaWpr)
+
+##scrible
+
+- [Scribble](http://codepen.io/robin-dela/pen/rWxmR)
 
