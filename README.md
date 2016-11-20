@@ -89,14 +89,4 @@ Contents
 - [Material Design Cards](http://codepen.io/MattiaAstorino/pen/VYWxXy)
 - [Flip - card memory game.](http://codepen.io/zerospree/pen/bNWbvW)
 
-##MailCarrier
 
-- [Mail carrier](http://codepen.io/johnbgarcia/pen/VmaWpr)
-
-##scrible
-
-- [Scribble](http://codepen.io/robin-dela/pen/rWxmR)
-
-##calculator 
-
-- [Calculator](http://codepen.io/caiocares/pen/aBvGXe)
