@@ -8,7 +8,6 @@ Ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - If you just created something, wait at least a couple of weeks before submitting.
-- Submitted open source apps should have a English readme, screenshot of the app in the readme, and a binary for at least one OS, preferably macOS, Linux and Windows.
 - Submitted packages should be tested and documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[resource](link) - Description.`
