@@ -1,8 +1,15 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-#Table of contents
-- [Background](#background)
-- [Clocks](#clocks)
-- [Text](#text)
+# Front-End Design Elements[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+![alt text](http://i.imgsafe.org/c317ca30b0.png)
+
+Curated list of Front-End design elements
+
+
+# Table of contents
+
+- [Background](#Background)
+- [Text](#Text)
+- [Clocks](#locks)
 - [NavBar](#NavBar)
 - [Footer](#Footer)
 - [Icons](#Icons)
@@ -11,7 +18,8 @@
 
 Contents
 --------
-##background
+
+## Background
 
 * [blurred background](http://codepen.io/ariona/pen/geFIK)
 * [parallax  scrolling](http://codepen.io/skeurentjes/pen/wvpus)
@@ -23,7 +31,7 @@ Contents
 * [Particle trails](http://codepen.io/Jeremboo/pen/ENVaMY)
 * [Teleportation](https://codepen.io/anon/pen/Lbyyqd)
 
-##text
+## Text
 
 * [cloudy text](http://codepen.io/rachsmith/pen/LEyLON)
 * [moving masked background](http://codepen.io/dghez/pen/ItxKE)
@@ -32,7 +40,8 @@ Contents
 * [Hover effects on the title](http://codepen.io/Podgro/pen/XNJdJK)
 * [3D font](http://codepen.io/jappe/pen/MbaXON)
 * [HI](http://codepen.io/katiasmet/pen/XNmZab)
-##clocks
+
+## Clocks
 
 - [QLOCKTWO](http://codepen.io/FWeinb/pen/oyACz)
 - [Working clock](http://codepen.io/iliadraznin/pen/JcqbE)
@@ -44,7 +53,7 @@ Contents
 * [Powered clock](http://codepen.io/eehayman/pen/jVPKpN)
 * [Dynamic Clock](http://codepen.io/simonpatrat/pen/NbxRrb)
 
-##NavBar
+## NavBar
 
 - [Responsive Parallax Navbar Logo - Bootstrap](http://codepen.io/Designmite/pen/GwdBm)
 - [Navbar Transition on Scroll](http://codepen.io/simonswiss/pen/zrQNmK)
@@ -52,28 +61,28 @@ Contents
 - [Bootstrap Navbar Toggle Show/Hide](http://codepen.io/norcal82/pen/ahegw)
 - [Navigation button](http://codepen.io/electerious/pen/ZBQeOv)
 
-##Footer
+## Footer
 
 - [Sticky Footer](http://codepen.io/chriscoyier/pen/uwJjr)
 - [Header/Footer Parallax Effect](http://codepen.io/hudsonmarinho/pen/FHGeK)
 - [CSS "Always on the bottom" Footer](http://codepen.io/cbracco/pen/zekgx)
 - [Responsive CSS Sticky Footer with a touch of jQuery](http://codepen.io/imohkay/pen/htpzf)
 
-##Icons
+## Icons
 
 - [Font Awesome Colored - Brand And Social Icons](http://codepen.io/ameyraut/pen/yfzog)
 - [Rotating Icon Buttons](http://codepen.io/colewaldrip/pen/bdZVGd)
 - [Social media hover icons with pop-up titles](http://codepen.io/kieranfivestars/pen/gbOWbM)
 - [Social Icons](http://codepen.io/miroot/pen/vdtse)
 
-##Menu
+## Menu
 
 - [iOS style sliding menu](http://codepen.io/jasonhowmans/pen/dykhL)
 - [Gooey Menu](http://codepen.io/lbebber/pen/LELBEo)
 - [Pull Menu - Menu Interaction Concept](http://codepen.io/fbrz/pen/bNdMwZ)
 - [Touch device jelly menu concept](http://codepen.io/sol0mka/pen/Jsyxq)
 
-##Sidebar
+## Sidebar
 
 - [Elastic SVG Sidebar Material Design](http://codepen.io/suez/pen/emjwvP)
 - [Sidebar slide-in-out effect](http://codepen.io/marijoha/pen/PNjZyW)
@@ -81,7 +90,7 @@ Contents
 - [Offcanvas sidebar menu with a twist](http://codepen.io/devilishalchemist/pen/LERvpM)
 - [Secret Project](http://codepen.io/khadkamhn/pen/BNwxEa)
 
-##Cards
+## Cards
 
 - [Simple Card Carousel](http://codepen.io/andytran/pen/EPQZYW)
 - [Material Design - Responsive card](http://codepen.io/marlenesco/pen/NqOozj)
