@@ -2,19 +2,20 @@
 
 ![alt text](http://i.imgsafe.org/c317ca30b0.png)
 
-Curated list of Front-End design elements
+>Curated list of Front-End Design Elements
 
 
 # Table of contents
 
-- [Background](#Background)
-- [Text](#Text)
-- [Clocks](#locks)
-- [NavBar](#NavBar)
-- [Footer](#Footer)
-- [Icons](#Icons)
-- [Menu](#Menu)
-- [SideBar](#SideBar)
+- [Background](#background)
+- [Text](#text)
+- [Clocks](#clocks)
+- [NavBar](#navbar)
+- [Footer](#footer)
+- [Icons](#icons)
+- [Menu](#menu)
+- [SideBar](#sidebar)
+- [Cards](#cards)
 
 Contents
 --------
@@ -102,5 +103,5 @@ Contents
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Gauthm Santhosh](http://www.gauthamzz.github.io) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Gautham Santhosh](http://www.gauthamzz.github.io) has waived all copyright and related or neighboring rights to this work.
 
