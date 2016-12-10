@@ -1,5 +1,3 @@
-# Awesome-Frontend-Designs
-Curated list of frontend designs
 #Table of contents
 - [Background](#background)
 - [Clocks](#clocks)
@@ -90,4 +88,9 @@ Contents
 - [Material Design Cards](http://codepen.io/MattiaAstorino/pen/VYWxXy)
 - [Flip - card memory game.](http://codepen.io/zerospree/pen/bNWbvW)
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Gauthm Santhosh](http://www.gauthamzz.github.io) has waived all copyright and related or neighboring rights to this work.
 
