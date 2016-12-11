@@ -62,7 +62,7 @@ Contents
 
 ## Footer
 
-- [Sticky Footer](http://codepen.io/chriscoyier/pen/uwJjr)
+- [Sticky Footer](http://codepen.io/chriscoyier/pen/uwJjr) : Footer always stays at the bottom.
 - [Header/Footer Parallax Effect](http://codepen.io/hudsonmarinho/pen/FHGeK)
 - [CSS "Always on the bottom" Footer](http://codepen.io/cbracco/pen/zekgx)
 - [Responsive CSS Sticky Footer with a touch of jQuery](http://codepen.io/imohkay/pen/htpzf)
