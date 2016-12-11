@@ -54,7 +54,7 @@ Contents
 
 ## NavBar
 
-- [Responsive Parallax Navbar Logo - Bootstrap](http://codepen.io/Designmite/pen/GwdBm)
+- [Responsive Parallax Navbar Logo - Bootstrap](http://codepen.io/Designmite/pen/GwdBm) : Decreasing header size as you scroll down.
 - [Navbar Transition on Scroll](http://codepen.io/simonswiss/pen/zrQNmK)
 - [Bootstrap Navbar with Logo Centered Above](http://codepen.io/davidcochran/pen/Dihnl)
 - [Bootstrap Navbar Toggle Show/Hide](http://codepen.io/norcal82/pen/ahegw)
