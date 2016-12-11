@@ -22,37 +22,35 @@ Contents
 
 ## Background
 
-* [blurred background](http://codepen.io/ariona/pen/geFIK)
-* [parallax  scrolling](http://codepen.io/skeurentjes/pen/wvpus)
-* [connect three](http://codepen.io/MarcoGuglielmelli/pen/lLCxy)
-* [gravity points](http://codepen.io/akm2/pen/rHIsa)
-* [animated background gradient](http://codepen.io/quasimondo/pen/lDdrF)
-* [floating cloud](http://codepen.io/shshaw/pen/DxJka)
-* [parallax background with walk cycle](http://codepen.io/rachelnabors/pen/AvGhp)
-* [Particle trails](http://codepen.io/Jeremboo/pen/ENVaMY)
-* [Teleportation](https://codepen.io/anon/pen/Lbyyqd)
+* [blurred background](http://codepen.io/ariona/pen/geFIK) : Small text box will be blurred while background remains same.
+* [parallax  scrolling](http://codepen.io/skeurentjes/pen/wvpus) : Background will be in parallax.
+* [connect three](http://codepen.io/MarcoGuglielmelli/pen/lLCxy) : Connected points following mouse movements.
+* [gravity points](http://codepen.io/akm2/pen/rHIsa) : Pixels will chase you on mouse click.
+* [animated background gradient](http://codepen.io/quasimondo/pen/lDdrF) : Changes colour automatically.
+* [floating cloud](http://codepen.io/shshaw/pen/DxJka) : Clouds moving in background.
+* [Particle trails](http://codepen.io/Jeremboo/pen/ENVaMY) : Growing random particle movement from the center.
+* [Teleportation](https://codepen.io/anon/pen/Lbyyqd) : Hypnotic effect causing background effect.
 
 ## Text
 
-* [cloudy text](http://codepen.io/rachsmith/pen/LEyLON)
-* [moving masked background](http://codepen.io/dghez/pen/ItxKE)
-* [CSS text shadow](http://codepen.io/tommymcdonald/pen/Iunzp)
-* [Glitch effect](http://codepen.io/anatravas/pen/mOyNWR)
-* [Hover effects on the title](http://codepen.io/Podgro/pen/XNJdJK)
-* [3D font](http://codepen.io/jappe/pen/MbaXON)
-* [HI](http://codepen.io/katiasmet/pen/XNmZab)
+* [cloudy text](http://codepen.io/rachsmith/pen/LEyLON) : Text will be made of clouds.
+* [moving masked background](http://codepen.io/dghez/pen/ItxKE) : Text mask background movement on mouse movement.
+* [CSS text shadow](http://codepen.io/tommymcdonald/pen/Iunzp) : Provides text shadow using CSS.
+* [Glitch effect](http://codepen.io/anatravas/pen/mOyNWR) : Provides retro gitch look to text.
+* [Hover effects on the title](http://codepen.io/Podgro/pen/XNJdJK) : Great CTA hover effect
+* [3D font](http://codepen.io/jappe/pen/MbaXON) : Convers font to 3D on button click.
+* [HI](http://codepen.io/katiasmet/pen/XNmZab) : Moving HI typeface.
 
 ## Clocks
 
-- [QLOCKTWO](http://codepen.io/FWeinb/pen/oyACz)
-- [Working clock](http://codepen.io/iliadraznin/pen/JcqbE)
-- [Countdown clock](http://codepen.io/ademilter/pen/czIGo)
-* [Mother flippin clock](http://codepen.io/rikschennink/pen/lyuaf)
-* [Clock || clocks ? ](http://codepen.io/ImagineAlex/pen/NAEvNd)
-* [Rotate clock](http://codepen.io/DawidKrajewski/pen/dPpMXN)
-* [Waterclock](http://codepen.io/akhil_001/pen/RGmqZB)
-* [Powered clock](http://codepen.io/eehayman/pen/jVPKpN)
-* [Dynamic Clock](http://codepen.io/simonpatrat/pen/NbxRrb)
+- [QLOCKTWO](http://codepen.io/FWeinb/pen/oyACz) : Present time is indicated using texts ligthing up.
+- [Working clock](http://codepen.io/iliadraznin/pen/JcqbE) : Clock with both text and hands.
+- [Countdown clock](http://codepen.io/ademilter/pen/czIGo) : Flip countdown clock.
+* [Mother flippin clock](http://codepen.io/rikschennink/pen/lyuaf) : Text clock with awesome design.
+* [Clock || clocks ? ](http://codepen.io/ImagineAlex/pen/NAEvNd) : Time represented using '|' and '_'.
+* [Rotate clock](http://codepen.io/DawidKrajewski/pen/dPpMXN) : Rotate clock made using only css.
+* [Waterclock](http://codepen.io/akhil_001/pen/RGmqZB) : Materalize clock with water like effects.
+* [Powered clock](http://codepen.io/eehayman/pen/jVPKpN) : CSS variable powered clock.
 
 ## NavBar
 
