@@ -69,33 +69,33 @@ Contents
 
 ## Icons
 
-- [Font Awesome Colored - Brand And Social Icons](http://codepen.io/ameyraut/pen/yfzog)
-- [Rotating Icon Buttons](http://codepen.io/colewaldrip/pen/bdZVGd)
-- [Social media hover icons with pop-up titles](http://codepen.io/kieranfivestars/pen/gbOWbM)
-- [Social Icons](http://codepen.io/miroot/pen/vdtse)
+- [Font Awesome Colored - Brand And Social Icons](http://codepen.io/ameyraut/pen/yfzog) : Colored social icons with awesome animations.
+- [Rotating Icon Buttons](http://codepen.io/colewaldrip/pen/bdZVGd) : Icon buttons rotates when pointer is on it.
+- [Social media hover icons with pop-up titles](http://codepen.io/kieranfivestars/pen/gbOWbM) : Pop-up titles appear when hovered over social media icons.
+- [Social Icons](http://codepen.io/miroot/pen/vdtse) : Large social media icons with animations.
 
 ## Menu
 
-- [iOS style sliding menu](http://codepen.io/jasonhowmans/pen/dykhL)
-- [Gooey Menu](http://codepen.io/lbebber/pen/LELBEo)
-- [Pull Menu - Menu Interaction Concept](http://codepen.io/fbrz/pen/bNdMwZ)
-- [Touch device jelly menu concept](http://codepen.io/sol0mka/pen/Jsyxq)
+- [iOS style sliding menu](http://codepen.io/jasonhowmans/pen/dykhL) : Menu appears from lefthand side of the screen. 
+- [Gooey Menu](http://codepen.io/lbebber/pen/LELBEo) : Stylish menu appears when clicked on button.
+- [Pull Menu - Menu Interaction Concept](http://codepen.io/fbrz/pen/bNdMwZ) : Menu which is pulled down to view.
+- [Touch device jelly menu concept](http://codepen.io/sol0mka/pen/Jsyxq) : Menu with awesome jelly like effect.
 
 ## Sidebar
 
-- [Elastic SVG Sidebar Material Design](http://codepen.io/suez/pen/emjwvP)
-- [Sidebar slide-in-out effect](http://codepen.io/marijoha/pen/PNjZyW)
-- [Fixed width sidebar responsive layout](http://codepen.io/kanishkkunal/pen/MYKmbe)
-- [Offcanvas sidebar menu with a twist](http://codepen.io/devilishalchemist/pen/LERvpM)
-- [Secret Project](http://codepen.io/khadkamhn/pen/BNwxEa)
+- [Elastic SVG Sidebar Material Design](http://codepen.io/suez/pen/emjwvP) : Sidebar with elastic effect when pulled.
+- [Sidebar slide-in-out effect](http://codepen.io/marijoha/pen/PNjZyW) : Awesome slide in-out effect when clicked on button.
+- [Fixed width sidebar responsive layout](http://codepen.io/kanishkkunal/pen/MYKmbe) : Side bar with fixed width and content with responsive width.
+- [Offcanvas sidebar menu with a twist](http://codepen.io/devilishalchemist/pen/LERvpM) : Side bar menu which appears in a rotating manner.
+- [Secret Project](http://codepen.io/khadkamhn/pen/BNwxEa) 
 
 ## Cards
 
-- [Simple Card Carousel](http://codepen.io/andytran/pen/EPQZYW)
-- [Material Design - Responsive card](http://codepen.io/marlenesco/pen/NqOozj)
-- [Google Now Inspired Flip Cards](http://codepen.io/ettrics/pen/zxMPWj)
-- [Material Design Cards](http://codepen.io/MattiaAstorino/pen/VYWxXy)
-- [Flip - card memory game.](http://codepen.io/zerospree/pen/bNWbvW)
+- [Simple Card Carousel](http://codepen.io/andytran/pen/EPQZYW) 
+- [Material Design - Responsive card](http://codepen.io/marlenesco/pen/NqOozj) :Responsive cards with description when clicked on button. 
+- [Google Now Inspired Flip Cards](http://codepen.io/ettrics/pen/zxMPWj) : Awesome google now styled flipping cards.
+- [Material Design Cards](http://codepen.io/MattiaAstorino/pen/VYWxXy) : Simple looking cards with various size options.
+- [Flip - card memory game.](http://codepen.io/zerospree/pen/bNWbvW) : Cards flip like those in the memory games. 
 
 ## License
 
