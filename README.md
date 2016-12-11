@@ -55,17 +55,17 @@ Contents
 ## NavBar
 
 - [Responsive Parallax Navbar Logo - Bootstrap](http://codepen.io/Designmite/pen/GwdBm) : Decreasing header size as you scroll down.
-- [Navbar Transition on Scroll](http://codepen.io/simonswiss/pen/zrQNmK)
-- [Bootstrap Navbar with Logo Centered Above](http://codepen.io/davidcochran/pen/Dihnl)
-- [Bootstrap Navbar Toggle Show/Hide](http://codepen.io/norcal82/pen/ahegw)
-- [Navigation button](http://codepen.io/electerious/pen/ZBQeOv)
+- [Navbar Transition on Scroll](http://codepen.io/simonswiss/pen/zrQNmK) : Navbar transition occurs when scrolled.
+- [Bootstrap Navbar with Logo Centered Above](http://codepen.io/davidcochran/pen/Dihnl) : Navbar with stylish logo centered above.
+- [Bootstrap Navbar Toggle Show/Hide](http://codepen.io/norcal82/pen/ahegw) : Hides the navbar on a button click.
+- [Navigation button](http://codepen.io/electerious/pen/ZBQeOv) : Sub-menus which help in quick navigation.
 
 ## Footer
 
 - [Sticky Footer](http://codepen.io/chriscoyier/pen/uwJjr) : Footer always stays at the bottom.
-- [Header/Footer Parallax Effect](http://codepen.io/hudsonmarinho/pen/FHGeK)
-- [CSS "Always on the bottom" Footer](http://codepen.io/cbracco/pen/zekgx)
-- [Responsive CSS Sticky Footer with a touch of jQuery](http://codepen.io/imohkay/pen/htpzf)
+- [Header/Footer Parallax Effect](http://codepen.io/hudsonmarinho/pen/FHGeK) : Parallax effect on both header and footer.
+- [CSS "Always on the bottom" Footer](http://codepen.io/cbracco/pen/zekgx) : Footer not fixed to the viewport while always on bottom.
+- [Responsive CSS Sticky Footer with a touch of jQuery](http://codepen.io/imohkay/pen/htpzf) : Footer always stay at the bottom but responsive.
 
 ## Icons
 
