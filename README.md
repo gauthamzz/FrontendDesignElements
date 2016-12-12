@@ -87,11 +87,10 @@ Contents
 - [Sidebar slide-in-out effect](http://codepen.io/marijoha/pen/PNjZyW) : Awesome slide in-out effect when clicked on button.
 - [Fixed width sidebar responsive layout](http://codepen.io/kanishkkunal/pen/MYKmbe) : Side bar with fixed width and content with responsive width.
 - [Offcanvas sidebar menu with a twist](http://codepen.io/devilishalchemist/pen/LERvpM) : Side bar menu which appears in a rotating manner.
-- [Secret Project](http://codepen.io/khadkamhn/pen/BNwxEa) 
+- [Secret Project](http://codepen.io/khadkamhn/pen/BNwxEa) : Materialize based sidebar.
 
 ## Cards
 
-- [Simple Card Carousel](http://codepen.io/andytran/pen/EPQZYW) 
 - [Material Design - Responsive card](http://codepen.io/marlenesco/pen/NqOozj) :Responsive cards with description when clicked on button. 
 - [Google Now Inspired Flip Cards](http://codepen.io/ettrics/pen/zxMPWj) : Awesome google now styled flipping cards.
 - [Material Design Cards](http://codepen.io/MattiaAstorino/pen/VYWxXy) : Simple looking cards with various size options.
