@@ -47,7 +47,6 @@ Contents
 - [Working clock](http://codepen.io/iliadraznin/pen/JcqbE) : Clock with both text and hands.
 - [Countdown clock](http://codepen.io/ademilter/pen/czIGo) : Flip countdown clock.
 * [Mother flippin clock](http://codepen.io/rikschennink/pen/lyuaf) : Text clock with awesome design.
-* [Clock || clocks ? ](http://codepen.io/ImagineAlex/pen/NAEvNd) : Time represented using '|' and '_'.
 * [Rotate clock](http://codepen.io/DawidKrajewski/pen/dPpMXN) : Rotate clock made using only css.
 * [Waterclock](http://codepen.io/akhil_001/pen/RGmqZB) : Materalize clock with water like effects.
 * [Powered clock](http://codepen.io/eehayman/pen/jVPKpN) : CSS variable powered clock.
