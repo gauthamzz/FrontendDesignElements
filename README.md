@@ -21,7 +21,7 @@ Contents
 --------
 
 ## Background
-* [interactive mosaic background](http://codepen.io/xposedbones/pen/XXpgpj)
+* [interactive mosaic background](http://codepen.io/xposedbones/pen/XXpgpj): Intercative mosaic background.
 * [blurred background](http://codepen.io/ariona/pen/geFIK) : Small text box will be blurred while background remains same.
 * [parallax  scrolling](http://codepen.io/skeurentjes/pen/wvpus) : Background will be in parallax.
 * [connect three](http://codepen.io/MarcoGuglielmelli/pen/lLCxy) : Connected points following mouse movements.
