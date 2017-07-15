@@ -85,8 +85,8 @@ Contents
 
 - [Elastic SVG Sidebar Material Design](http://codepen.io/suez/pen/emjwvP) : Sidebar with elastic effect when pulled.
 - [Sidebar slide-in-out effect](http://codepen.io/marijoha/pen/PNjZyW) : Awesome slide in-out effect when clicked on button.
-- [Fixed width sidebar responsive layout](http://codepen.io/kanishkkunal/pen/MYKmbe) : Side bar with fixed width and content with responsive width.
-- [Offcanvas sidebar menu with a twist](http://codepen.io/devilishalchemist/pen/LERvpM) : Side bar menu which appears in a rotating manner.
+- [Fixed width sidebar responsive layout](http://codepen.io/kanishkkunal/pen/MYKmbe) : Sidebar with fixed width and content with responsive width.
+- [Offcanvas sidebar menu with a twist](http://codepen.io/devilishalchemist/pen/LERvpM) : Sidebar menu which appears in a rotating manner.
 - [Secret Project](http://codepen.io/khadkamhn/pen/BNwxEa) : Materialize based sidebar.
 
 ## Cards
