@@ -66,6 +66,7 @@ Contents
 - [Header/Footer Parallax Effect](http://codepen.io/hudsonmarinho/pen/FHGeK) : Parallax effect on both header and footer.
 - [CSS "Always on the bottom" Footer](http://codepen.io/cbracco/pen/zekgx) : Footer not fixed to the viewport while always on bottom.
 - [Responsive CSS Sticky Footer with a touch of jQuery](http://codepen.io/imohkay/pen/htpzf) : Footer always stay at the bottom but responsive.
+- [Sticky Footer Magic](https://codepen.io/MelissaMMDP/pen/doGbNy?limit=all&page=2&q=footer) : Simple CSS sticky footer.
 
 ## Icons
 
