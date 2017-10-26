@@ -17,6 +17,7 @@
 - [SideBar](#sidebar)
 - [Cards](#cards)
 - [SignUp](#signup)
+- [Hover Effects](#hoverEffects)
 
 Contents
 --------
@@ -101,6 +102,17 @@ Contents
 
 - [Sign Up](http://codepen.io/acezard/pen/eZgZBd) : Awesome sign up page.
 - [Login and Signup](https://codepen.io/andytran/pen/RPBdgM?page=8)
+
+## Hover Effects
+
+- [Material Design Click Effect](https://codepen.io/K-ro/pen/MwZjGw) : Buttons light-up when clicked.
+- [Info on Hover](https://codepen.io/tystrong/pen/rVJNrQ) : When hovered over give more info about the word/img/element.
+- [Layered Button](https://codepen.io/rauldronca/pen/EWeEvV) : Button transforms in a 3-d layered structure when hovered over.
+- [Ratings](https://codepen.io/tadaima/pen/rjvYab) : The emoji changes mood based on the rating given.
+- [Boder Transformation](https://codepen.io/lesbaa/pen/dojGVL)(https://codepen.io/thejamespower/pen/OVNYLL) : The borders transforms when hovered(Check out for displaying active states)
+- [List Hover](https://codepen.io/bennettfeely/pen/PWZaGX) : Hover over lists to make it stand out from the rest.
+- [Sliding the Element](https://codepen.io/jlnljn/pen/pRZWPN) : Slide the Button/Element for its functionality. 
+
 
 ## License
 
